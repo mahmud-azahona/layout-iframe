@@ -1,0 +1,97 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.content{
+	height: 100px;
+	width: 70%;
+	background-color: aqua;
+	float: left;
+}
+.blog{
+	float: right;
+	height: 100px;
+	width: 30%;
+	background-color: tan;
+}
+/*item*/
+.item{
+	float: left;
+	height: 100px;
+	width: 33.33%;
+}
+.royalblue{
+	background-color: royalblue;
+}
+.gray{
+	background-color: gray;
+}
+.blue{
+	background-color: blue;
+}
+
+/*item1*/
+.item1{
+	float: left;
+	height: 100px;
+	width: 25%;
+}
+.blue{
+	background-color: blue;
+}
+.darkGreen{
+	background-color: DarkGreen;
+}
+.pink{
+	background-color: pink;}
+}
+
+.slateblue{
+	background-color: slateblue;
+}
+/*item2*/
+.item2{
+	float: left;
+	height: 100px;
+	width: 20%;
+}
+.lightBlue{
+	background-color: lightBlue;
+}
+.orchid{
+	background-color: orchid
+}
+.tomato{ background-color:tomato;}
+
+.purple{
+	background-color: purple;
+}
+
+.yellowGreen{
+	background-color: yellowGreen;
+}
+.box{
+
+}
+
+
+.footer{
+	height: 50px;
+	background-color: black;
+}
+
+/*iframe start*/
+.frame{
+	height:400px;
+	width:50%;
+	border:0;
+}
+.video{
+	width: 50%;
+	height: 400px;
+
+}
+/*iframe end*/
